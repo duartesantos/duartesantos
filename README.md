@@ -18,6 +18,7 @@
 
 ---
 ### 💻 Linguagens de Programação
+<img src="https://img.shields.io/badge/Assembly-6E4E2C?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly x86" />
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
