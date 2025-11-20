@@ -43,6 +43,8 @@
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
 <img src="https://img.shields.io/badge/Windows_Forms-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Forms" />
 <img src="https://img.shields.io/badge/JavaFX-000000?style=for-the-badge&logo=openjdk&logoColor=white" alt="JavaFX" />
+<img src="https://img.shields.io/badge/TCP%2FIP%2FSockets-0078D4?style=for-the-badge&logo=java&logoColor=white" alt="TCP/IP & Socket Programming" />
+<img src="https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=rest&logoColor=white" alt="REST APIs" />
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 
@@ -51,9 +53,5 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
 <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
----
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=duartesantos&show_icons=true&theme=vision-friendly-dark&hide_title=true&hide=contribs" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duartesantos&layout=compact&theme=vision-friendly-dark" alt="Top Langs" width="49%" />
-</div>
+---
